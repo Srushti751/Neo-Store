@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "category_name": "sofa",
+  "product_image": "images/s1.jpg",
+  "category_id": 1,
+  "createdAt": {
+    "$date": "2021-12-28T07:59:07.408Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T07:59:07.408Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cac3d6b6562d41edb5e466"
+  },
+  "category_name": "table",
+  "product_image": "images/t1.jpg",
+  "category_id": 2,
+  "createdAt": {
+    "$date": "2021-12-28T07:59:18.717Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T07:59:18.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cac902b6562d41edb5e48f"
+  },
+  "category_name": "dining",
+  "product_image": "images/d1.jpg",
+  "category_id": 4,
+  "createdAt": {
+    "$date": "2021-12-28T08:21:22.708Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T08:21:22.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cace45e072fb7f5c477ab4"
+  },
+  "product_image": "images/s1.jpg",
+  "createdAt": {
+    "$date": "2021-12-28T08:43:49.227Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T08:43:49.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d51da1132e590405ac1b41"
+  },
+  "category_name": "bed",
+  "product_image": "images/b1.jpg",
+  "category_id": 3,
+  "createdAt": {
+    "$date": "2022-01-05T04:25:05.567Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T04:25:05.567Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d51db1132e590405ac1b43"
+  },
+  "category_name": "chair",
+  "product_image": "images/c1.jpg",
+  "category_id": 5,
+  "createdAt": {
+    "$date": "2022-01-05T04:25:21.843Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-05T04:25:21.843Z"
+  },
+  "__v": 0
+}]

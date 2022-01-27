@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "61cc4ce33268e7d90d5d2d21"
+  },
+  "home_address": "v-67,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "sara",
+  "createdAt": {
+    "$date": "2021-12-29T11:56:19.152Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:45:18.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ced0ec4a75694c9e3ccf2b"
+  },
+  "home_address": "v-67,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Srushti Shetty",
+  "createdAt": {
+    "$date": "2021-12-31T09:44:12.561Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:45:18.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2e14d4d31406fe57fb9db"
+  },
+  "home_address": "v-67,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Pushpa Shetty",
+  "createdAt": {
+    "$date": "2022-01-03T11:43:09.369Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:45:18.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e1245059dba95ab13c34a3"
+  },
+  "home_address": "v-67,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Srushti Shetty",
+  "createdAt": {
+    "$date": "2022-01-14T07:20:48.438Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:45:18.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e149ac4234bf14d4e303d5"
+  },
+  "home_address": "v-67,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Srushti Shetty",
+  "createdAt": {
+    "$date": "2022-01-14T10:00:12.981Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:45:18.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e1612b4105e1c87759bf6c"
+  },
+  "home_address": "v-677,kolkip",
+  "pincode": 695876,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Harshada",
+  "createdAt": {
+    "$date": "2022-01-14T11:40:27.072Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T13:00:36.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e6b64feb85356c79b53dfc"
+  },
+  "home_address": "C-111,jaylakshmi",
+  "pincode": 421201,
+  "state": "Maharashtra",
+  "country": "India",
+  "user": "Harshada",
+  "createdAt": {
+    "$date": "2022-01-18T12:45:03.174Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T13:14:43.932Z"
+  },
+  "__v": 0
+}]

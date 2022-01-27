@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "61d2fe0431506da4e44ce53c"
+  },
+  "name": "Harshada",
+  "email": "srushtishtt57@gmail.com",
+  "password": "$2a$10$LADVn0cjGk.cWcAuY/9LkOXJDjDUTCpqjXnVUcUUXYYYEi9LivtPO",
+  "phone": 7738259064,
+  "dob": {
+    "$date": "2000-06-16T00:00:00Z"
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2022-01-03T13:45:40.785Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T12:37:59.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e690f098bbe04e0795dcd2"
+  },
+  "name": "sru",
+  "email": "srus@gm.com",
+  "password": "$2a$10$IGQmKTeZTNfihDzp9IGBYOmsyjWapdxcxDrkHJFq2Q9WQaeap6ryK",
+  "phone": 525698689638,
+  "dob": {
+    "$date": "2022-01-18T00:00:00Z"
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2022-01-18T10:05:36.270Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T10:05:36.270Z"
+  },
+  "__v": 0
+}]

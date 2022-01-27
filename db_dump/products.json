@@ -1,0 +1,470 @@
+[{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201692"
+  },
+  "id": 2,
+  "product_name": "Blue 5 seater sofaset",
+  "product_cost": "60000",
+  "rating": 3,
+  "color": "blue",
+  "category_name": "sofa",
+  "product_image": "images/s2.jpg",
+  "images": [
+    "images/s2.jpg"
+  ],
+  "product_desc": "Spacious, relaxing and light weight 3 seater sofa made with high quality fabric\nProduct Dimensions: Depth - 79 cms, Height - 82.55 cms, Width - 187 cms. Comfortable Seating experience with 24 Density Seat & 28 Density Backrest foam.Durability ensured with Solid Pine Wood Frame with Commercial Plywood body & Arm.Ergonomic design for Indian Family with 21 inch seat depth & 17.5 inch seat height from floor.",
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "color_id": {
+    "$oid": "61cad2f56afd6fd54cbc857b"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201693"
+  },
+  "id": 3,
+  "product_name": "3 seater yellow soft sofa ",
+  "product_cost": "60000",
+  "rating": 2,
+  "color": "yellow",
+  "category_name": "sofa",
+  "product_image": "images/s3.jpg",
+  "images": [
+    "images/s3.jpg",
+    "images/s1.jpg"
+  ],
+  "product_desc": "Spacious, relaxing and light weight 3 seater sofa made with high quality fabric\nProduct Dimensions: Depth - 79 cms, Height - 82.55 cms, Width - 187 cms. Comfortable Seating experience with 24 Density Seat & 28 Density Backrest foam.Durability ensured with Solid Pine Wood Frame with Commercial Plywood body & Arm.Ergonomic design for Indian Family with 21 inch seat depth & 17.5 inch seat height from floor.",
+  "updatedAt": {
+    "$date": "2021-12-30T14:13:36.136Z"
+  },
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "color_id": {
+    "$oid": "61cad3026afd6fd54cbc857d"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201694"
+  },
+  "product_name": "Night Stand Table",
+  "product_cost": "4000",
+  "rating": 4,
+  "color": "brown",
+  "category_name": "table",
+  "product_image": "images/t1.jpg",
+  "images": [
+    "images/t1.jpg",
+    "images/t12.jpg",
+    "images/t13.jpg"
+  ],
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "updatedAt": {
+    "$date": "2022-01-10T10:22:37.841Z"
+  },
+  "category_id": {
+    "$oid": "61cac3d6b6562d41edb5e466"
+  },
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201695"
+  },
+  "id": 5,
+  "product_name": "Table stand",
+  "product_cost": "60000",
+  "rating": 5,
+  "color": "brown",
+  "category_name": "table",
+  "product_image": "images/t2.jpg",
+  "images": [
+    "images/t2.jpg",
+    "images/t3.jpg"
+  ],
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "category_id": {
+    "$oid": "61cac3d6b6562d41edb5e466"
+  },
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201696"
+  },
+  "id": 6,
+  "product_name": "Round Coffee table",
+  "product_cost": "6000",
+  "rating": 2,
+  "color": "brown",
+  "category_name": "table",
+  "product_image": "images/t3.jpg",
+  "images": [
+    "images/t3.jpg",
+    "images/t1.jpg"
+  ],
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "category_id": {
+    "$oid": "61cac3d6b6562d41edb5e466"
+  },
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201697"
+  },
+  "id": 7,
+  "product_name": "4 seater dining table",
+  "product_cost": "60000",
+  "rating": 4,
+  "color": "brown",
+  "category_name": "dining",
+  "product_image": "images/d1.jpg",
+  "images": [
+    "images/d1.jpg"
+  ],
+  "product_desc": "Modern Dining Set made of Sheesham solid wood; sports a classic 6 seater design with a refined honey finish\nSafe and sound family first design; free from toxins to be safe for lifelong use",
+  "category_id": {
+    "$oid": "61cac902b6562d41edb5e48f"
+  },
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201698"
+  },
+  "id": 8,
+  "product_name": "8 seater black dining",
+  "product_cost": "8000",
+  "rating": 4,
+  "color": "black",
+  "category_name": "dining",
+  "product_image": "images/d2.jpg",
+  "images": [
+    "images/d2.jpg"
+  ],
+  "product_desc": "Modern Dining Set made of Sheesham solid wood; sports a classic 6 seater design with a refined honey finish\nSafe and sound family first design; free from toxins to be safe for lifelong use",
+  "color_id": {
+    "$oid": "61cad1399646d6a9b7a7a2df"
+  },
+  "category_id": {
+    "$oid": "61cac902b6562d41edb5e48f"
+  }
+},{
+  "_id": {
+    "$oid": "61cac7b81fd88863e7201699"
+  },
+  "id": 9,
+  "product_name": "Brown 6 seater dining",
+  "product_cost": "60000",
+  "rating": 4,
+  "color": "black",
+  "category_name": "dining",
+  "product_image": "images/d3.jpg",
+  "images": [
+    "images/d1.jpg",
+    "images/d2.jpg",
+    "images/d3.jpg"
+  ],
+  "product_desc": "Modern Dining Set made of Sheesham solid wood; sports a classic 6 seater design with a refined honey finish\nSafe and sound family first design; free from toxins to be safe for lifelong use",
+  "color_id": {
+    "$oid": "61cad1399646d6a9b7a7a2df"
+  },
+  "category_id": {
+    "$oid": "61cac902b6562d41edb5e48f"
+  }
+},{
+  "_id": {
+    "$oid": "61caf843c35f78ce3a3ac962"
+  },
+  "product_name": "Emerald green sofa",
+  "product_image": "images/s1.jpg",
+  "product_cost": 60000,
+  "category_name": "sofa",
+  "color": "green",
+  "images": [
+    "images/s1.jpg",
+    "images/s2.jpg",
+    "images/s3.jpg"
+  ],
+  "createdAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "__v": 0,
+  "product_desc": "Spacious, relaxing and light weight 3 seater sofa made with high quality fabric\nProduct Dimensions: Depth - 79 cms, Height - 82.55 cms, Width - 187 cms. Comfortable Seating experience with 24 Density Seat & 28 Density Backrest foam.Durability ensured with Solid Pine Wood Frame with Commercial Plywood body & Arm.Ergonomic design for Indian Family with 21 inch seat depth & 17.5 inch seat height from floor.",
+  "rating": 3,
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "color_id": {
+    "$oid": "61cad12d9646d6a9b7a7a2dd"
+  }
+},{
+  "_id": {
+    "$oid": "61cb3f29fbfe1d643c795fcb"
+  },
+  "product_name": "Sofa lounge 2 seater",
+  "product_image": "images/s4.jpg",
+  "product_cost": 60000,
+  "category_name": "sofa",
+  "color": "blue",
+  "images": [
+    "images/s4.jpg",
+    "images/s41.jpg",
+    "images/s42.jpg"
+  ],
+  "createdAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "__v": 0,
+  "rating": 4,
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "color_id": {
+    "$oid": "61cad2f56afd6fd54cbc857b"
+  }
+},{
+  "_id": {
+    "$oid": "61cb3fa4fbfe1d643c795fcc"
+  },
+  "product_name": "Black L-shape sofaset",
+  "product_image": "images/s5.jpg",
+  "product_cost": 60000,
+  "category_name": "sofa",
+  "color": "black",
+  "images": [
+    "images/s5.jpg",
+    "images/s51.jpg",
+    "images/s52.jpg"
+  ],
+  "createdAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "__v": 0,
+  "product_desc": "Spacious, relaxing and light weight 3 seater sofa made with high quality fabric\nProduct Dimensions: Depth - 79 cms, Height - 82.55 cms, Width - 187 cms. Comfortable Seating experience with 24 Density Seat & 28 Density Backrest foam.Durability ensured with Solid Pine Wood Frame with Commercial Plywood body & Arm.Ergonomic design for Indian Family with 21 inch seat depth & 17.5 inch seat height from floor.",
+  "rating": 5,
+  "color_id": {
+    "$oid": "61cad1399646d6a9b7a7a2df"
+  },
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  }
+},{
+  "_id": {
+    "$oid": "61cb3fc0fbfe1d643c795fcd"
+  },
+  "product_name": "Soft pink 3 seater sofa",
+  "product_image": "images/s6.jpg",
+  "product_cost": 5000,
+  "category_name": "sofa",
+  "color": "pink",
+  "images": [
+    "images/s6.jpg",
+    "images/s61.jpg",
+    "images/s62.jpg"
+  ],
+  "createdAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T11:42:59.041Z"
+  },
+  "__v": 0,
+  "product_desc": "Spacious, relaxing and light weight 3 seater sofa made with high quality fabric\nProduct Dimensions: Depth - 79 cms, Height - 82.55 cms, Width - 187 cms. Comfortable Seating experience with 24 Density Seat & 28 Density Backrest foam.Durability ensured with Solid Pine Wood Frame with Commercial Plywood body & Arm.Ergonomic design for Indian Family with 21 inch seat depth & 17.5 inch seat height from floor.",
+  "rating": 2,
+  "category_id": {
+    "$oid": "61cac3cbb6562d41edb5e464"
+  },
+  "color_id": {
+    "$oid": "61cb438be0b223ba1a7f61e0"
+  }
+},{
+  "_id": {
+    "$oid": "61d445dd132e590405ac1aeb"
+  },
+  "product_name": "Black single chair",
+  "product_image": "images/c1.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 10000,
+  "category_name": "chair",
+  "color": "black",
+  "images": [
+    "images/c1.jpg",
+    "images/c12.jpg",
+    "images/c13.jpg"
+  ],
+  "rating": 4,
+  "createdAt": {
+    "$date": "2022-01-04T13:04:29.102Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:04:29.102Z"
+  },
+  "__v": 0,
+  "color_id": {
+    "$oid": "61cad1399646d6a9b7a7a2df"
+  },
+  "category_id": {
+    "$oid": "61d51db1132e590405ac1b43"
+  }
+},{
+  "_id": {
+    "$oid": "61d44601132e590405ac1aed"
+  },
+  "product_name": "Folding chair ",
+  "product_image": "images/c2.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 10000,
+  "category_name": "chair",
+  "color": "brown",
+  "images": [
+    "images/c2.jpg",
+    "images/c22.jpg",
+    "images/c23.jpg"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2022-01-04T13:05:05.070Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:05:05.070Z"
+  },
+  "__v": 0,
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  },
+  "category_id": {
+    "$oid": "61d51db1132e590405ac1b43"
+  }
+},{
+  "_id": {
+    "$oid": "61d44617132e590405ac1aef"
+  },
+  "product_name": "Netted Brown chair",
+  "product_image": "images/c3.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 10000,
+  "category_name": "chair",
+  "color": "brown",
+  "images": [
+    "images/c3.jpg",
+    "images/c32.jpg",
+    "images/c33.jpg"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2022-01-04T13:05:27.651Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:05:27.651Z"
+  },
+  "__v": 0,
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  },
+  "category_id": {
+    "$oid": "61d51db1132e590405ac1b43"
+  }
+},{
+  "_id": {
+    "$oid": "61d448ec132e590405ac1b0b"
+  },
+  "product_name": "Metal Bunk Bed for kids",
+  "product_image": "images/b3.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 21000,
+  "category_name": "bed",
+  "color": "blue",
+  "images": [
+    "images/b3.jpg",
+    "images/b32.jpg",
+    "images/b33.jpg"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2022-01-04T13:17:32.276Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:17:32.276Z"
+  },
+  "__v": 0,
+  "color_id": {
+    "$oid": "61cad2f56afd6fd54cbc857b"
+  },
+  "category_id": {
+    "$oid": "61d51da1132e590405ac1b41"
+  }
+},{
+  "_id": {
+    "$oid": "61d44900132e590405ac1b0d"
+  },
+  "product_name": "Brown double bed",
+  "product_image": "images/b1.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 21000,
+  "category_name": "bed",
+  "color": "brown",
+  "images": [
+    "images/b1.jpg",
+    "images/b12.jpg",
+    "images/b13.jpg"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2022-01-04T13:17:52.016Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:17:52.016Z"
+  },
+  "__v": 0,
+  "color_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  },
+  "category_id": {
+    "$oid": "61d51da1132e590405ac1b41"
+  }
+},{
+  "_id": {
+    "$oid": "61d4490f132e590405ac1b0f"
+  },
+  "product_name": "Queen size bed ",
+  "product_image": "images/b2.jpg",
+  "product_desc": "High Quality: The Table Top Is Made Of Veneered Wood, Stackable Placement, Take A Small Size To big Space Utilization With A Sturdy Design. And Triangular Design Added A Worth Simple Style But Beautiful, easy to install, more convenient. Engineered Wood is used in Legs",
+  "product_cost": 21000,
+  "category_name": "bed",
+  "color": "white",
+  "images": [
+    "images/b2.jpg",
+    "images/b22.jpg",
+    "images/b23.jpg"
+  ],
+  "rating": 3,
+  "createdAt": {
+    "$date": "2022-01-04T13:18:07.523Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-04T13:18:07.523Z"
+  },
+  "__v": 0,
+  "category_id": {
+    "$oid": "61d51da1132e590405ac1b41"
+  },
+  "color_id": {
+    "$oid": "61cb150f6d82bd95f18b25f1"
+  }
+}]

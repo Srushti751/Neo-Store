@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "61cad12d9646d6a9b7a7a2dd"
+  },
+  "color": "green",
+  "product_image": "images/s1.jpg",
+  "color_id": 3,
+  "createdAt": {
+    "$date": "2021-12-28T08:56:13.555Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T08:56:13.555Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cad1399646d6a9b7a7a2df"
+  },
+  "color": "black",
+  "product_image": "images/s1.jpg",
+  "color_id": 1,
+  "createdAt": {
+    "$date": "2021-12-28T08:56:25.229Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T08:56:25.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cad1429646d6a9b7a7a2e1"
+  },
+  "color": "brown",
+  "product_image": "images/s1.jpg",
+  "color_id": 2,
+  "createdAt": {
+    "$date": "2021-12-28T08:56:34.347Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T08:56:34.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cad2f56afd6fd54cbc857b"
+  },
+  "color": "blue",
+  "product_image": "images/s1.jpg",
+  "color_id": 4,
+  "createdAt": {
+    "$date": "2021-12-28T09:03:49.765Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T09:03:49.765Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cad3026afd6fd54cbc857d"
+  },
+  "color": "yellow",
+  "product_image": "images/s1.jpg",
+  "color_id": 5,
+  "createdAt": {
+    "$date": "2021-12-28T09:04:02.047Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T09:04:02.047Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cb150f6d82bd95f18b25f1"
+  },
+  "color": "white",
+  "product_image": "images/s1.jpg",
+  "color_id": 7,
+  "createdAt": {
+    "$date": "2021-12-28T13:45:51.686Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T13:45:51.686Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cb438be0b223ba1a7f61e0"
+  },
+  "color": "pink",
+  "color_id": 8,
+  "createdAt": {
+    "$date": "2021-12-28T17:04:11.070Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-28T17:04:11.070Z"
+  },
+  "__v": 0
+}]

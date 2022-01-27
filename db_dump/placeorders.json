@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "61e687ef3431e0542a027b2e"
+  },
+  "card": "3213",
+  "quantity": 2,
+  "total": 67200,
+  "user": "Srushti Shetty",
+  "orderDetails": [
+    {
+      "_id": "61e4134af5e4312a090ec120",
+      "product_name": "Night Stand Table",
+      "product_image": "images/t1.jpg",
+      "product_cost": 4000,
+      "quantity": 1,
+      "user": "Srushti Shetty",
+      "address": [
+        {
+          "_id": "61e1245059dba95ab13c34a3",
+          "home_address": "new address",
+          "pincode": 4521456,
+          "state": "Maharashtra",
+          "country": "India",
+          "user": "Srushti Shetty",
+          "createdAt": "2022-01-14T07:20:48.438Z",
+          "updatedAt": "2022-01-14T07:20:48.438Z",
+          "__v": 0
+        }
+      ],
+      "createdAt": "2022-01-16T12:44:58.557Z",
+      "updatedAt": "2022-01-18T09:26:47.501Z",
+      "__v": 0
+    },
+    {
+      "_id": "61e6873c3431e0542a027b0d",
+      "product_name": "Blue 5 seater sofaset",
+      "product_image": "images/s2.jpg",
+      "product_cost": 60000,
+      "quantity": 1,
+      "user": "Srushti Shetty",
+      "address": [
+        {
+          "_id": "61e1245059dba95ab13c34a3",
+          "home_address": "new address",
+          "pincode": 4521456,
+          "state": "Maharashtra",
+          "country": "India",
+          "user": "Srushti Shetty",
+          "createdAt": "2022-01-14T07:20:48.438Z",
+          "updatedAt": "2022-01-14T07:20:48.438Z",
+          "__v": 0
+        }
+      ],
+      "createdAt": "2022-01-18T09:24:12.598Z",
+      "updatedAt": "2022-01-18T09:26:47.501Z",
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-18T09:27:11.893Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T09:27:11.893Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e6bdb008f4be5d1b45e618"
+  },
+  "card": "123654",
+  "quantity": 1,
+  "total": 126000,
+  "user": "Harshada",
+  "orderDetails": [
+    {
+      "_id": "61e57b6fb347afc8e7ded312",
+      "product_name": "Blue 5 seater sofaset",
+      "product_image": "images/s2.jpg",
+      "product_cost": 60000,
+      "quantity": 2,
+      "user": "Harshada",
+      "address": [
+        {
+          "_id": "61e6b64feb85356c79b53dfc",
+          "home_address": "C-111,jaylakshmi",
+          "pincode": 421201,
+          "state": "Maharashtra",
+          "country": "India",
+          "user": "Harshada",
+          "createdAt": "2022-01-18T12:45:03.174Z",
+          "updatedAt": "2022-01-18T13:14:43.932Z",
+          "__v": 0
+        }
+      ],
+      "createdAt": "2022-01-17T14:21:35.521Z",
+      "updatedAt": "2022-01-18T13:16:12.082Z",
+      "__v": 0
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-18T13:16:32.742Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-18T13:16:32.742Z"
+  },
+  "__v": 0
+}]
